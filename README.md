@@ -354,7 +354,7 @@ Special thanks to the Power BI community and Microsoft documentation for learnin
 
 - 🌐 GitHub: https://github.com/unnatinavlani-ui
 
-*(LinkedIn profile will be added soon.)*
+- 🌐 Linkedin: https://www.linkedin.com/in/unnatinavlani/
 
 ---
 
